@@ -257,37 +257,9 @@ These projects involve creating virtual network topologies and exploring communi
   <a href="https://www.linkedin.com/in/joao-victor-nascimento-ribeiro/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-
-  <a href="https://instagram.com/nrib.joaovictor" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
 </p>
 
 📧 **Email:** nrib.joaovictor@gmail.com
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=nribjoaovictor&show_icons=true&theme=github_dark&hide_border=true"
-    alt="João Victor's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nribjoaovictor&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nribjoaovictor&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-</p>
