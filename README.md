@@ -62,20 +62,6 @@ These projects involve dataset preparation, preprocessing, model training and ev
 
 ---
 
-## 🩺 AI-Assisted Medical Imaging Platform
-
-Full-stack platform for **AI-assisted medical image analysis**, combining web development with machine learning and computer vision.
-
-The project integrates backend services and REST APIs with a modern frontend while supporting AI-based image analysis workflows.
-
-It includes authentication, patient and examination management, image upload, API integration and neural-network-based image analysis.
-
-**Technologies:**
-
-`Python` `Django` `Django REST Framework` `React` `TypeScript` `PostgreSQL` `REST API` `JWT` `CNN` `Grad-CAM`
-
----
-
 ## 🐍 Django & Backend Applications
 
 Backend and web applications developed primarily with **Python, Django and Flask**.
