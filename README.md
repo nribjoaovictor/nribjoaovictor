@@ -271,7 +271,16 @@ These projects involve creating virtual network topologies and exploring communi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nribjoaovictor&show_icons=true&locale=en&layout=compact"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=nribjoaovictor&show_icons=true&theme=github_dark&hide_border=true"
+    alt="João Victor's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nribjoaovictor&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
